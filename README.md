@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on [godfall.com](https://godfall.com) and [homeworldmobile.com](https://homeworldmobile.com)
+### 🔭 I’m currently working on https://godfall.com and https://homeworldmobile.com
 
 Find more at [Kickstand](https://kickstand.agency)
 <!--
