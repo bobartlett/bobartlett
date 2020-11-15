@@ -1,5 +1,6 @@
-### 🔭 I’m currently working on godfall.com and homeworldmobile.com
+### 🔭 I’m currently working on [godfall.com](https://godfall.com) and [homeworldmobile.com](https://homeworldmobile.com)
 
+Find more at [Kickstand](https://kickstand.agency)
 <!--
 **bobartlett/bobartlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
