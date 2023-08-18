@@ -1,4 +1,4 @@
-### 💻 Launched new branding and sites for [Prytania Media](https://prytania.co/) and their portfolio studios
+### 💻 Launched new branding and sites for [Prytania Media](https://prytania.co/) and their portfolio of studios
 - [Fang & Claw](https://fangandclaw.co/)
 - [Dawon](https://dawon.games/)
 - [Crop Circle Games](https://cropcircle.co/)
